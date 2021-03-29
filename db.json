@@ -1,48 +1,46 @@
   {
-    "projects": {
-    
-   
-  		"id": 1,
-  		"name": "First Project Name",
-  		"description": "Description",
-  		"tags": {
-  			"firstTag": {
-  				"name": "Apparel Design"
+  	"projects": [{
+  			"id": 1,
+  			"name": "First Project Name",
+  			"description": "Description",
+  			"tags": {
+  				"firstTag": {
+  					"name": "Apparel Design"
+  				},
+  				"secondTag": {
+  					"name": "Digital Activation"
+  				},
+  				"thirdTag": {
+  					"name": "Illustration"
+  				},
+  				"fourthTag": {
+  					"name": "Identity"
+  				}
   			},
-  			"secondTag": {
-  				"name": "Digital Activation"
-  			},
-  			"thirdTag": {
-  				"name": "Illustration"
-  			},
-  			"fourthTag": {
-  				"name": "Identity"
+  			"thumbDetails": {
+  				"name": "Thumb name",
+  				"image": "../assets/projects/project-1"
   			}
   		},
-  		"thumbDetails": {
-  			"name": "Thumb name",
-  			"image": "../assets/projects/project-1"
-  		}
-  	},
-  	{
-  		"id": 2,
-  		"name": "Second Project Name",
-  		"description": "Second Description",
-  		"tags": {
-  			"firstTag": {
-  				"name": "Apparel Design"
+  		{
+  			"id": 2,
+  			"name": "Second Project Name",
+  			"description": "Second Description",
+  			"tags": {
+  				"firstTag": {
+  					"name": "Apparel Design"
+  				},
+  				"secondTag": {
+  					"name": "Digital Activation"
+  				},
+  				"thirdTag": {
+  					"name": "Illustration"
+  				}
   			},
-  			"secondTag": {
-  				"name": "Digital Activation"
-  			},
-  			"thirdTag": {
-  				"name": "Illustration"
+  			"thumbDetails": {
+  				"name": "Thumb name",
+  				"image": "../assets/projects/project-1"
   			}
-  		},
-  		"thumbDetails": {
-  			"name": "Thumb name",
-  			"image": "../assets/projects/project-1"
   		}
-  	}
- }
-}
+  	]
+  }
