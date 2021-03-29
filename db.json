@@ -1,5 +1,4 @@
-{
-  "projects": [
+[
     {
       "id": 1,
       "name": "First Project Name",
@@ -45,4 +44,4 @@
     }
     
   ]
-}
+
