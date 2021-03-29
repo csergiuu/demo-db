@@ -24,9 +24,30 @@
   		},
 
   		{
-  			"id": 1,
+  			"id": 2,
   			"name": "Second Project Name",
   			"description": "Second Description",
+  			"tags": {
+  				"firstTag": {
+  					"name": "Apparel Design"
+  				},
+  				"secondTag": {
+  					"name": "Digital Activation"
+  				},
+  				"thirdTag": {
+  					"name": "Illustration"
+  				}
+  			},
+  			"thumbDetails": {
+  				"name": "Thumb name",
+  				"image": "../assets/projects/project-1"
+  			}
+  		},
+                 
+      {
+  			"id": 3,
+  			"name": "Third Project Name",
+  			"description": "Third Description",
   			"tags": {
   				"firstTag": {
   					"name": "Apparel Design"
