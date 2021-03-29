@@ -3,7 +3,25 @@
     {
       "id": 1,
       "name": "First Project Name",
-      "description": "Description"
+      "description": "Description",
+      "tags": {
+        "firstTag": {
+          "name": "Apparel Design"
+        },
+        "secondTag": {
+          "name": "Digital Activation"
+        },
+        "thirdTag": {
+          "name": "Illustration"
+        },
+        "fourthTag": {
+          "name": "Identity"
+        }
+      },
+      "thumbDetails": {
+        "name": "Thumb name",
+        "image": "../assets/projects/project-1"
+      }
     }
   ]
 }
