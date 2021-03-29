@@ -1,4 +1,7 @@
-  [{
+  {
+    "projects": {
+    
+   
   		"id": 1,
   		"name": "First Project Name",
   		"description": "Description",
@@ -41,5 +44,5 @@
   			"image": "../assets/projects/project-1"
   		}
   	}
-
-  ]
+ }
+}
