@@ -63,6 +63,48 @@
   				"name": "Thumb name",
   				"image": "../assets/projects/project-1"
   			}
+  		},
+                 
+      {
+  			"id": 4,
+  			"name": "Fourth Project Name",
+  			"description": "Fourth Description",
+  			"tags": {
+  				"firstTag": {
+  					"name": "Apparel Design"
+  				},
+  				"secondTag": {
+  					"name": "Digital Activation"
+  				},
+  				"thirdTag": {
+  					"name": "Illustration"
+  				}
+  			},
+  			"thumbDetails": {
+  				"name": "Thumb name",
+  				"image": "../assets/projects/project-1"
+  			}
+  		},
+      
+      {
+  			"id": 5,
+  			"name": "Fifth Project Name",
+  			"description": "Fifth Description",
+  			"tags": {
+  				"firstTag": {
+  					"name": "Apparel Design"
+  				},
+  				"secondTag": {
+  					"name": "Digital Activation"
+  				},
+  				"thirdTag": {
+  					"name": "Illustration"
+  				}
+  			},
+  			"thumbDetails": {
+  				"name": "Thumb name",
+  				"image": "../assets/projects/project-1"
+  			}
   		}
 
   	]
